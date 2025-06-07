@@ -24,7 +24,7 @@ La Licuadora Oster es un electrodoméstico esencial en cualquier cocina. Con un 
 
 ### Precio aproximado:
 
-Q450.00 – Q600.00 (Tienda MAX)
+Q450.00 – Q600.00 (según tienda)
 
 ---
 
