@@ -1,0 +1,7 @@
+title: Sitio de Examen
+description: Un sitio hecho con Jekyll para el examen práctico
+url: "https://GitHub.github.io/sitio-jekyll-examen"
+theme: minima
+collections:
+  articulos:
+    output: true
