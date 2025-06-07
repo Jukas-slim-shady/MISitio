@@ -3,6 +3,20 @@ layout: default
 title: Contacto
 permalink: /contact/
 ---
-# Contacto
 
-Escríbeme a: matias@miproyecto.com
+# 📬 Contáctame
+
+Si deseas ponerte en contacto conmigo, puedes hacerlo a través de los siguientes medios:
+
+- 📧 Correo: [Matias@miproyecto.com]
+- 📱 Teléfono: +502 1234-5678
+- 🌐 GitHub: [Mi perfil](https://jukas-slim-shady)
+- 📍 Ubicación: Ciudad de Guatemala, Guatemala
+
+---
+
+## 📝 También puedes visitar otras secciones
+
+- [Inicio](./)
+- [Acerca de](../about)
+- [Artículos](../articulos)
