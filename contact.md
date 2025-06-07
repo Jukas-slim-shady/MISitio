@@ -2,6 +2,8 @@
 layout: default
 title: Contacto
 permalink: /contact/
+
+
 ---
 
 # 📬 Contáctame
@@ -14,9 +16,3 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de los siguiente
 - 📍 Ubicación: Ciudad de Guatemala, Guatemala
 
 ---
-
-## 📝 También puedes visitar otras secciones
-
-- [Inicio](./)
-- [Acerca de](../about)
-- [Artículos](../articulos)
