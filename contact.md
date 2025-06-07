@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 # Contacto
 
-Escríbeme a: ejemplo@email.com
+Escríbeme a: matias@miproyecto.com
