@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 # Contacto
 
-Puedes escribirme a mi correo: matias@misitio.com
+Escríbeme a: ejemplo@email.com
