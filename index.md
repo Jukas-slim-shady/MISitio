@@ -7,24 +7,6 @@ title: Inicio
 
 Este sitio fue creado como parte de un examen práctico utilizando **GitHub Pages** y **Jekyll**.
 
----
-
-## 📄 Secciones principales
-
-- [Acerca de](about)
-- [Contacto](contact)
-- [Artículos](articulos)
-
----
-
-## 📰 Últimos artículos
-
-<ul>
-{% for articulo in site.articulos limit:2 %}
-  <li>
-    <a href="{{ articulo.url }}">{{ articulo.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+![Imagen de bienvenida](https://via.placeholder.com/900x300text=Bienvenido+a+mi+sitio+web)
 
 ---
