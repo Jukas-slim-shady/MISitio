@@ -28,7 +28,3 @@ Este sitio fue creado como parte de un examen práctico utilizando **GitHub Page
 </ul>
 
 ---
-
-## 📷 Imagen opcional
-
-![Ejemplo de imagen](https://via.placeholder.com/600x200?text=Bienvenido+al+sitio)
